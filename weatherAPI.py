@@ -1,7 +1,7 @@
 import requests
 import os
 from datetime import datetime
-
+# My code is using the time provided by the API
 def main():
     print('Get the 5 day weather forecast for any city.')
     # An environment key must be set for the program to work
